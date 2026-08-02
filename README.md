@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=200&section=header&text=supr1se7&fontSize=70&fontColor=d4a8ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20JS%20%7C%20Python%20%7C%20Java&descAlignY=58&descColor=b480f5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=200&section=header&text=supr1se7&fontSize=70&fontColor=d4a8ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20JS%20%7C%20Python%20%7C%20&descAlignY=58&descColor=b480f5" />
 
 <!-- Typing animado roxo -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Construindo+APIs+que+funcionam+%F0%9F%9A%80;Backend+%C3%A9+vida+%F0%9F%92%9C;Node+%7C+Spring+%7C+FastAPI;Sempre+aprendendo+algo+novo+%E2%9C%A8)](https://git.io/typing-svg)
