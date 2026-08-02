@@ -90,26 +90,17 @@ const dev = {
 
 <br/>
 
-<img src="https://github-readme-stats-git-masterstat-umidbekk.vercel.app/api?username=supr1se7&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd&ring_color=7c3aed&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=supr1se7&theme=dracula" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats-git-masterstat-umidbekk.vercel.app/api/top-langs/?username=supr1se7&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=a855f7&text_color=c4b5fd&langs_count=6" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supr1se7&theme=dracula" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=supr1se7&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=7c3aed&currStreakNum=d4a8ff&sideNums=d4a8ff" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=supr1se7&theme=dracula&utcOffset=-3" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- LINGUAGENS USADAS -->
-<div align="center">
-
-### `[ Minhas Linguagens ]`
-
-<br/>
-
-[![wakatime stats](https://github-readme-stats-git-masterstat-umidbekk.vercel.app/api/wakatime?username=supr1se7&hide_border=true&bg_color=0D0D1A&title_color=a855f7&text_color=c4b5fd&icon_color=a855f7&layout=compact)](https://wakatime.com/@supr1se7)
+<img src="https://streak-stats.demolab.com?user=supr1se7&theme=midnight-purple&hide_border=true&background=0D0D1A&stroke=7c3aed&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=c4b5fd&dates=7c3aed&currStreakNum=d4a8ff&sideNums=d4a8ff" />
 
 </div>
 
