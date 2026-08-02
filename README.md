@@ -90,9 +90,9 @@ const dev = {
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=supr1se7&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D1A&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd&ring_color=7c3aed" height="170"/>
+<img src="https://github-readme-stats-git-masterstat-umidbekk.vercel.app/api?username=supr1se7&show_icons=true&hide_border=true&bg_color=0D0D1A&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd&ring_color=7c3aed&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supr1se7&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=a855f7&text_color=c4b5fd&langs_count=6" height="170"/>
+<img src="https://github-readme-stats-git-masterstat-umidbekk.vercel.app/api/top-langs/?username=supr1se7&layout=compact&hide_border=true&bg_color=0D0D1A&title_color=a855f7&text_color=c4b5fd&langs_count=6" height="170"/>
 
 <br/><br/>
 
@@ -102,14 +102,14 @@ const dev = {
 
 <br/>
 
-<!-- TROFEUS -->
+<!-- LINGUAGENS USADAS -->
 <div align="center">
 
-### `[ Conquistas ]`
+### `[ Minhas Linguagens ]`
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=supr1se7&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=4" />
+[![wakatime stats](https://github-readme-stats-git-masterstat-umidbekk.vercel.app/api/wakatime?username=supr1se7&hide_border=true&bg_color=0D0D1A&title_color=a855f7&text_color=c4b5fd&icon_color=a855f7&layout=compact)](https://wakatime.com/@supr1se7)
 
 </div>
 
