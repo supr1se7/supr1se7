@@ -1,12 +1,14 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=200&section=header&text=supr1se7&fontSize=70&fontColor=d4a8ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20JS%20%7C%20Python&descAlignY=58&descColor=b480f5" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=200&section=header&text=supr1se7&fontSize=70&fontColor=d4a8ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20JS%20%7C%20Python%20%7C%20Java&descAlignY=58&descColor=b480f5" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Construindo+APIs+que+funcionam+%F0%9F%9A%80;Backend+%C3%A9+vida+%F0%9F%92%9C;Node+%7C+Express+%7C+FastAPI;Sempre+aprendendo+algo+novo+%E2%9C%A8)](https://git.io/typing-svg)
+<!-- Typing animado roxo -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=500&lines=Construindo+APIs+que+funcionam+%F0%9F%9A%80;Backend+%C3%A9+vida+%F0%9F%92%9C;Node+%7C+Spring+%7C+FastAPI;Sempre+aprendendo+algo+novo+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
+<!-- Badges de perfil -->
 ![Profile Views](https://komarev.com/ghpvc/?username=supr1se7&color=9333ea&style=flat-square&label=Visitas)
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/supr1se7?color=9333ea&style=flat-square&label=Seguidores)
@@ -17,6 +19,7 @@
 
 <br/>
 
+<!-- SOBRE MIM -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,27&height=2&section=header" />
 
 ```javascript
@@ -31,13 +34,14 @@ const dev = {
   atualmente:  "Construindo APIs robustas e escaláveis 🚀",
   passatempo:  "Debugar às 3 da manhã ☕💀",
 };
-` ``
+```
 
 <br/>
 
+<!-- TECH STACK -->
 <div align="center">
 
-### `[ Tech Stack ]`
+
 
 <br/>
 
@@ -74,8 +78,10 @@ const dev = {
 
 </div>
 
+
 <br/>
 
+<!-- SNAKE -->
 <div align="center">
 
 <picture>
@@ -86,4 +92,5 @@ const dev = {
 
 </div>
 
+<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=100&section=footer" />
